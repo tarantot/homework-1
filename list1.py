@@ -28,13 +28,3 @@ while like == str("N"):
 
 if like == str("Y"):
     print ("Прелестно!")
-
-
-
-    
-
-        
-
-#like == "Y"
-#while True:
-    #print("Прелестно!")
